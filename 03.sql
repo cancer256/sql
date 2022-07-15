@@ -1,4 +1,5 @@
 --single function
+--sysdate와 nvl많이씀
 --SQL(Structed Query Language)
 --PL/SQL(Procedure Language/SQL) PL = SQL을 절차지향 언어로 포장하는것 
 
