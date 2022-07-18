@@ -1,6 +1,6 @@
 --select
 
-select * from departments;
+select * from departments; --(*모든타입 조회시)
 
 select department_id, location_id
 from departure;
